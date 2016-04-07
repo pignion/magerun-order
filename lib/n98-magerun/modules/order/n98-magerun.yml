@@ -1,0 +1,7 @@
+autoloaders:
+  Order: %module%/src
+  Cart: %module%/src
+
+commands:
+  customCommands:
+    - Cart\AddItemCommand

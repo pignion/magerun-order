@@ -1,0 +1,15 @@
+{
+  "name": "pignion/magerun-order",
+  "type": "magento-module",
+  "description": "Magerun utility",
+  "homepage": "https://github.com/pignion/magerun-order",
+  "authors": [
+    {
+      "name": "Pignion",
+      "email": "subsriptions@oldstarhotel.com"
+    }
+  ],
+  "require-dev": {
+    "phpspec/phpspec": "~2.0"
+  }
+}
